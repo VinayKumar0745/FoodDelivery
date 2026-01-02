@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/Practice/Trail"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FoodDelivery"
+	}
+}
